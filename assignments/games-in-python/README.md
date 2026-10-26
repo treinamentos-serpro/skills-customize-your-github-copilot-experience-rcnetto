@@ -1,11 +1,11 @@
 
 # 📘 Atividade: Jogo da Forca
 
-## 🎯 Objective
+## 🎯 Objetivo
 
 Implemente o clássico jogo da forca em Python para praticar manipulação de strings, loops, condicionais, entrada de dados do usuário e seleção aleatória.
 
-## 📝 Tasks
+## 📝 Tarefas
 
 ### 🛠️ Implementar o Jogo da Forca
 
